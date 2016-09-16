@@ -1,0 +1,20 @@
+{
+  "name": "ImageSearchAbstractionLayer",
+  "version": "1.0.0",
+  "description": "An image search abstraction layer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Zachary Kearns",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.9",
+    "request": "^2.74.0"
+  },
+  "engines": {
+    "node": "4.4.3"
+  }
+}
